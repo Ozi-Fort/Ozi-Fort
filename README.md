@@ -1,10 +1,25 @@
-# Welcome!
+# Welcome Dear Reader!
 
 ## About Me
   Hi there 👋, I'm Adachukwu (It's hard to pronounce right?), just call me Ada.
-  🔭 I’m currently studying computer science and The University of Texas Rio Grande Valley for a Bachelor's Degree. I am interested in 
+  🔭 I’m currently studying for a Bachelor's Degree in Computer Science at The University of Texas Rio Grande Valley. I am interested in 
       Object-oriented programming as well as Data Analytics, and I hope to improve my problem-solving coding skills by the end of this
-      school year.
+      school year (2025-2026).
+
+### What I'm Learning🌱
+##### -Java - My very first language. Fluent, but still learning more about it.
+##### -C++ - I'm learning this to because I'm interested in implementing game development theories in object-oriented programming. (Don't ask me what that means.)
+##### -Python - I'm still getting the bascis of this one down, but it's so much easier to use so far.
+
+
+### Contact Me
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/aikondu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](ikonduadachukwu@gmail.com)
+
+
+
+
+
 <!--
 **Ozi-Fort/Ozi-Fort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
