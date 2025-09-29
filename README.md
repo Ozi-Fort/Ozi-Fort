@@ -1,5 +1,10 @@
-## Hi there 👋
+# Welcome!
 
+## About Me
+  Hi there 👋, I'm Adachukwu (It's hard to pronounce right?), just call me Ada.
+  🔭 I’m currently studying computer science and The University of Texas Rio Grande Valley for a Bachelor's Degree. I am interested in 
+      Object-oriented programming as well as Data Analytics, and I hope to improve my problem-solving coding skills by the end of this
+      school year.
 <!--
 **Ozi-Fort/Ozi-Fort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
