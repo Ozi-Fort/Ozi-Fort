@@ -8,8 +8,8 @@
 
 ### What I'm Learning🌱
 ##### -Java - My very first language. Fluent, but still learning more about it.
-##### -C++ - I'm learning this to because I'm interested in implementing game development theories in object-oriented programming. (Don't ask me what that means.)
-##### -Python - I'm still getting the bascis of this one down, but it's so much easier to use so far.
+##### -C++ - I'm learning this too because I'm interested in implementing game development theories into object-oriented programming.
+##### -Python - I'm still getting the bascis of this one down, but it's so much easier to use so far. Good for ML and Data Visualization
 
 
 ### Contact Me
