@@ -3,7 +3,7 @@
 ## About Me
   Hi there 👋, I'm Adachukwu (It's hard to pronounce right?), just call me Ada.
   🔭 I’m currently studying for a Bachelor's Degree in Computer Science at The University of Texas Rio Grande Valley. I am interested in 
-      Object-oriented programming as well as Data Analytics, and I hope to improve my problem-solving coding skills by the end of this
+      Object-oriented programming, ML, and also Data Analytics, and I hope to improve my problem-solving coding skills by the end of this
       school year (2025-2026).
 
 ### What I'm Learning🌱
