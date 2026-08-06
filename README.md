@@ -1,18 +1,62 @@
 # Welcome Dear Reader!
 
-## About Me
-  Hi there 👋, I'm Adachukwu (It's hard to pronounce right?), just call me Ada.
-  🔭 I’m currently studying for a Bachelor's Degree in Computer Science at The University of Texas Rio Grande Valley. I am interested in 
-      Object-oriented programming, ML, and also Data Analytics, and I hope to improve my problem-solving coding skills by the end of this
-      school year (2025-2026).
+## Hi, I'm Ada 👋
 
-### What I'm Learning🌱
-##### -Java - My very first language. Fluent, but still learning more about it.
-##### -C++ - I'm learning this too because I'm interested in implementing game development theories into object-oriented programming.(Whatever that means)
-##### -Python - I'm still getting the bascis of this one down, but it's so much easier to use so far. Good for ML and Data Visualization
+I'm a Computer Science student at The University of Texas Rio Grande Valley (UTRGV) with interests in Artificial Intelligence, Machine Learning, Robotics, and Software Engineering.
 
+I enjoy building projects that combine programming with real-world problem solving—from computer vision and swarm robotics research to data analysis and object-oriented software development.
 
-### Contact Me
+Currently exploring:
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- 🚗 Autonomous & Swarm Robotics
+- 💻 Object-Oriented Software Development
+- 📊 Data Analytics
+
+---
+
+## Tech Stack
+
+**Languages**
+
+- Java
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+
+**Tools**
+
+- Git & GitHub
+- OpenCV
+- YOLO
+- NetLogo
+- VS Code
+- Google Colab
+
+---
+
+## Current Projects
+
+- Vehicle detection and tracking using YOLO
+- Swarm robotics simulations in NetLogo
+- Machine learning experiments
+- Personal software projects
+
+---
+
+## Currently Learning
+
+- Deep Learning
+- Computer Vision
+- Reinforcement Learning
+- Design Patterns
+- Modern C++
+
+---
+
+### Let's Connect
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aikondu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:afikondu@gmail.com)
 
