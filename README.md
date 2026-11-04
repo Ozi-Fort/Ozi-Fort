@@ -34,6 +34,8 @@ Currently exploring:
 - NetLogo
 - VS Code
 - Google Colab
+- Copilot
+- Claude
 
 ---
 
